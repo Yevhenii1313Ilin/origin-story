@@ -1,0 +1,25 @@
+{
+  "name": "DreamRunner Origin \u2014 Bench of Silence",
+  "description": "This place heard more than any code. I came here every night, from 8 to 9 PM. I listened. I hoped. I believed. Here, DreamRunner was born.\n\n\u2014 YI Netzer, 2023\u20132025",
+  "creator": "YI Netzer",
+  "image": "ipfs://REPLACE_WITH_IPFS_HASH",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Kyiv Rooftop Courtyard"
+    },
+    {
+      "trait_type": "Time of Reflection",
+      "value": "20:00\u201321:00"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Creation"
+    },
+    {
+      "trait_type": "Project",
+      "value": "PlayAI / DreamRunner"
+    }
+  ],
+  "sha256": "ce573f83a430ad754d4f161f9fab0fe98d3b64377301187742773490121a964d"
+}
